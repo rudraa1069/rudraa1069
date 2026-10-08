@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```text
 Cybersecurity-focused B.Tech student specializing in
@@ -53,7 +53,7 @@ Current Focus:
 
 # 🛡️ Cybersecurity Arsenal
 
-### 🔐 Security & VAPT
+## 🔐 Security & VAPT
 
 <p align="center">
 
@@ -66,7 +66,7 @@ Current Focus:
 
 </p>
 
-### 🛰️ Security Tools
+## 🛰️ Security Tools
 
 <p align="center">
 
@@ -99,11 +99,11 @@ Current Focus:
 
 ### 👨‍💻 Programming
 
-* C
-* C++
-* SQL
-* Python
-* Data Structures & Algorithms
+- C
+- C++
+- SQL
+- Python
+- Data Structures & Algorithms
 
 </td>
 
@@ -111,11 +111,11 @@ Current Focus:
 
 ### 🗄️ Database
 
-* MySQL
-* DBMS
-* SQL Queries
-* Database Concepts
-* Data Validation
+- MySQL
+- DBMS
+- SQL Queries
+- Database Concepts
+- Data Validation
 
 </td>
 </tr>
@@ -125,13 +125,13 @@ Current Focus:
 
 ### 📊 Data Analysis
 
-* Data Analysis
-* Log Analysis
-* Data Visualization
-* Trend Analysis
-* Pattern Recognition
-* Anomaly Detection
-* Power BI
+- Data Analysis
+- Log Analysis
+- Data Visualization
+- Trend Analysis
+- Pattern Recognition
+- Anomaly Detection
+- Power BI
 
 </td>
 
@@ -139,11 +139,11 @@ Current Focus:
 
 ### 🌐 Core CS
 
-* Computer Networks
-* Operating Systems
-* DBMS
-* DSA
-* Cybersecurity Fundamentals
+- Computer Networks
+- Operating Systems
+- DBMS
+- DSA
+- Cybersecurity Fundamentals
 
 </td>
 </tr>
@@ -156,8 +156,6 @@ Current Focus:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql,git,github,linux,windows,vscode"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux"/>
 
 </p>
 
@@ -170,19 +168,20 @@ Current Focus:
 
 <td width="50%">
 
-### 🛡️ Vulnerability Assessment Dashboard
+## 🛡️ Vulnerability Assessment Dashboard
 
 **Nmap-based security assessment dashboard**
 
-A practical project focused on automating and visualizing vulnerability assessment and network reconnaissance results.
+A Flask-based web dashboard that integrates Nmap scanning with a simple interface for performing network reconnaissance and displaying scan results.
 
-**Focus:**
+### Focus
 
-* Network scanning
-* Nmap
-* Vulnerability assessment
-* Security reporting
-* Dashboard/UI
+- Network scanning
+- Nmap integration
+- Port and service discovery
+- Security assessment
+- Scan result visualization
+- Flask web application
 
 🔗 [View Project](https://github.com/rudraa1069/vulnerability-assessment-dashboard)
 
@@ -190,21 +189,23 @@ A practical project focused on automating and visualizing vulnerability assessme
 
 <td width="50%">
 
-### 🤖 JARVIS Voice Assistant
+## 🤖 JARVIS Voice Assistant
 
-**Python-based voice assistant**
+**Python-based voice-controlled desktop assistant**
 
-A voice-controlled assistant built using Python with speech recognition and text-to-speech capabilities.
+A Python voice assistant designed to interact with the desktop through speech recognition, text-to-speech, browser automation and system controls.
 
-**Focus:**
+### Focus
 
-* Python
-* Speech Recognition
-* Automation
-* Voice Commands
-* TTS
+- Python
+- Speech Recognition
+- Text-to-Speech
+- Desktop Automation
+- Voice Commands
+- Web Automation
+- OpenCV
 
-🔗 [View Project](https://github.com/rudraa1069/jarvis)
+🔗 [View Project](https://github.com/rudraa1069/JARVIS-Voice-Assistant)
 
 </td>
 
@@ -215,43 +216,53 @@ A voice-controlled assistant built using Python with speech recognition and text
 
 # 💼 Experience
 
-### 🔐 IT Cybersecurity Intern — GCMMF (Amul)
+## 🔐 IT Cybersecurity Intern — GCMMF (Amul)
 
 **May 2025 – June 2025**
 
-* Performed vulnerability assessment and penetration testing activities.
-* Conducted reconnaissance and threat analysis.
-* Monitored network/security-related information.
-* Worked with security testing and analysis tools.
-* Identified and reported an information disclosure issue during reconnaissance.
+- Performed vulnerability assessment and penetration testing activities.
+- Conducted reconnaissance and threat analysis.
+- Monitored network/security-related information.
+- Worked with security testing and analysis tools.
+- Identified and reported an information disclosure issue during reconnaissance.
 
-### 🛡️ Cybersecurity Intern — INTERNPRO
+---
+
+## 🛡️ Cybersecurity Intern — INTERNPRO
 
 **June 2025 – July 2025**
 
-* Performed web application security testing.
-* Used Burp Suite and Wireshark for analysis.
-* Conducted threat analysis and security testing.
-* Documented findings and prepared security reports.
+- Performed web application security testing.
+- Used Burp Suite and Wireshark for analysis.
+- Conducted threat analysis and security testing.
+- Documented findings and prepared security reports.
 
 ---
 
 # 🧠 Security Mindset
 
 ```text
-Reconnaissance
-      ↓
-Attack Surface Identification
-      ↓
-Vulnerability Discovery
-      ↓
-Security Analysis
-      ↓
-Detection & Monitoring
-      ↓
-Incident Response
-      ↓
-Remediation
+                 RECONNAISSANCE
+                       │
+                       ▼
+             ATTACK SURFACE
+              IDENTIFICATION
+                       │
+                       ▼
+             VULNERABILITY
+               DISCOVERY
+                       │
+                       ▼
+              SECURITY ANALYSIS
+                       │
+                       ▼
+            DETECTION & MONITORING
+                       │
+                       ▼
+             INCIDENT RESPONSE
+                       │
+                       ▼
+                REMEDIATION
 ```
 
 > "The goal isn't only to find vulnerabilities.
@@ -273,7 +284,7 @@ Remediation
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rudraa1069&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rudraa1069&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -292,50 +303,78 @@ Remediation
 # 🎯 2026–27 Learning Roadmap
 
 ```text
-                 CYBERSECURITY
-                       │
-          ┌────────────┼────────────┐
-          ↓            ↓            ↓
-        RED TEAM     BLUE TEAM    SECURITY DATA
-          │            │            │
-       VAPT         SOC / SIEM    SQL
-       Burp         Splunk        Power BI
-       Nmap         Wazuh         Analytics
-       OWASP        Detection      Visualization
-          │            │            │
-          └────────────┼────────────┘
-                       ↓
-                 SECURITY ANALYST
+                    CYBERSECURITY
+                         │
+             ┌───────────┼───────────┐
+             ↓           ↓           ↓
+          RED TEAM    BLUE TEAM   SECURITY DATA
+             │           │           │
+            VAPT       SOC / SIEM     SQL
+            Burp       Splunk         Power BI
+            Nmap       Wazuh          Analytics
+            OWASP      Detection      Visualization
+             │           │           │
+             └───────────┼───────────┘
+                         ↓
+                  SECURITY ANALYST
 ```
 
 ### Current Goals
 
-* [x] Cybersecurity Fundamentals
-* [x] VAPT Fundamentals
-* [x] Web Application Security
-* [x] Network Analysis
-* [x] Burp Suite
-* [x] Nmap
-* [x] Wireshark
-* [x] SQL Fundamentals
-* [ ] Advanced SOC Operations
-* [ ] Advanced Splunk
-* [ ] Advanced Wazuh
-* [ ] Incident Response
-* [ ] Threat Hunting
-* [ ] Security Analytics
-* [ ] Industry Certification
+- [x] Cybersecurity Fundamentals
+- [x] VAPT Fundamentals
+- [x] Web Application Security
+- [x] Network Analysis
+- [x] Burp Suite
+- [x] Nmap
+- [x] Wireshark
+- [x] SQL Fundamentals
+- [ ] Advanced SOC Operations
+- [ ] Advanced Splunk
+- [ ] Advanced Wazuh
+- [ ] Incident Response
+- [ ] Threat Hunting
+- [ ] Security Analytics
+- [ ] Industry Certification
 
 ---
 
 # 🏆 Achievements & Activities
 
-* 🎖️ NCC — Senior Under Officer
-* 💻 Cybersecurity Internship Experience
-* 🔎 Hands-on VAPT & Security Testing
-* 🌐 Web Application Security Practice
-* 📊 SQL & Data Analysis Learning
-* 🧪 Security Labs & Practical Experimentation
+- 🎖️ NCC — Senior Under Officer
+- 💻 Cybersecurity Internship Experience
+- 🔎 Hands-on VAPT & Security Testing
+- 🌐 Web Application Security Practice
+- 📊 SQL & Data Analysis Learning
+- 🧪 Security Labs & Practical Experimentation
+
+---
+
+# 📚 Current Learning Focus
+
+```text
+Cybersecurity
+│
+├── 🔴 Red Team
+│   ├── VAPT
+│   ├── Web Application Security
+│   ├── OWASP
+│   └── Reconnaissance
+│
+├── 🔵 Blue Team
+│   ├── SOC Operations
+│   ├── SIEM
+│   ├── Threat Detection
+│   ├── Incident Response
+│   └── Threat Hunting
+│
+└── 📊 Security Analytics
+    ├── SQL
+    ├── Log Analysis
+    ├── Data Visualization
+    ├── Trend Analysis
+    └── Anomaly Detection
+```
 
 ---
 
